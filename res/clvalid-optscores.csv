@@ -1,0 +1,8 @@
+"","Score","Method","Clusters"
+"APN",0.051298754928274,"kmeans","2"
+"AD",4.60128029171547,"kmeans","10"
+"ADM",0.0782018472541108,"kmeans","2"
+"FOM",0.364942908450891,"kmeans","10"
+"Connectivity",554.785317460317,"kmeans","2"
+"Dunn",0.0363879171079763,"kmeans","2"
+"Silhouette",0.367151185203684,"kmeans","2"
