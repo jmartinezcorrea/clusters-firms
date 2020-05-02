@@ -19,6 +19,13 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
+```{r}
+library(foreign)
+endei <- read.dta("data/raw/ENDEI_posta.dta")
+head(endei)
+```
+
+
 ## Including Plots
 
 You can also embed plots, for example:
